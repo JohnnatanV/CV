@@ -10108,6 +10108,11 @@ p.lead {
   font-size: 3rem;
 }
 
+.nameSkill {
+  font-size: 1.5rem;
+  margin: 1rem 1rem 1rem 1rem;
+  padding: -1px 0 0 0;
+}
 section.resume-section {
   display: flex;
   align-items: center;
